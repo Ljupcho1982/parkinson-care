@@ -2,6 +2,14 @@
 
 A simple, private **medication & well-being tracker** for people living with Parkinson's disease.
 
+### 👉 Open it: **https://ljupcho1982.github.io/parkinson-care/**
+
+<p align="center">
+  <img src="qr-plain.png" alt="Scan to open Parkinson Care" width="240"><br>
+  <em>Scan with your phone camera to open &amp; install</em>
+</p>
+
+
 - ✅ **Track every dose** — one tap to log a pill, with the exact time recorded
 - ⏰ **On-schedule check** — see what's due now, what's overdue, and today's adherence %
 - 🔔 **Full-screen voice alarm** — when a dose is due: giant letters, spoken voice (English / Macedonian), sound & vibration, with **I TOOK IT** / **SNOOZE**
